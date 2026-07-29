@@ -1,4 +1,9 @@
-# SuperGoodReason
+# GoodReason — SuperGoodReasonModel & tooling
+
+> **Part of the GoodReason project.** GoodReason is documented across two repositories:
+>
+> - **[goodreason-systemic-method](https://github.com/EkiLaitila/goodreason-systemic-method)** — the method and the reasoning behind this model. **New to GoodReason? Start there.**
+> - **GoodReason / SuperGoodReason** — *you are here* — the runnable model, schema, validator, and domain specializations.
 
 A home for the **SuperGoodReasonModel** — a universal α–Ω systemic configurator — together with the tooling and domain **specializations** built on it.
 
