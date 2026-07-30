@@ -49,7 +49,7 @@ except ImportError:  # pragma: no cover
 
 SCHEMA_NAME = "SuperGoodReasonModel.schema.json"
 UNIFY_SCHEMA_NAME = "unify.schema.json"
-SECTOR_ORDER = ["α", "π", "χ", "Δψ", "β", "φ", "τ", "Ω"]
+SECTOR_ORDER = ["α", "π", "χ", "ΔΨ", "β", "φ", "τ", "Ω"]
 GREEN, RED, DIM, BOLD, RESET = "\033[32m", "\033[31m", "\033[2m", "\033[1m", "\033[0m"
 
 

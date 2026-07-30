@@ -17,7 +17,7 @@ The model contains eight sectors:
 - **α — Purpose / mindset / identity**
 - **π — Theory / reasoning / justification**
 - **χ — Information / model / methodological backbone**
-- **Δψ — Change pressure / renewal / failure testing**
+- **ΔΨ — Change pressure / renewal / failure testing**
 - **β — Organization / structure / viability**
 - **φ — Design / solution / configuration**
 - **τ — Implementation / practice / integration**
@@ -45,11 +45,11 @@ The Ω-sector mirrors α. Feedback may return to:
 
 This makes the model reflexive. Feedback does not only evaluate the object. It also evaluates the observer, the model, and the process of knowing.
 
-### Δψ — Objective change pressure and failure testing
+### ΔΨ — Objective change pressure and failure testing
 
-The Δψ-sector is treated as the sector of objective change pressure. Observers may interpret pressure differently, but signals, anomalies, overload, crisis, collapse, and survival thresholds are treated as detectable in the system.
+The ΔΨ-sector is treated as the sector of objective change pressure. Observers may interpret pressure differently, but signals, anomalies, overload, crisis, collapse, and survival thresholds are treated as detectable in the system.
 
-A decisive addition is the **failure condition** at Δψ4:
+A decisive addition is the **failure condition** at ΔΨ4:
 
 > At the adaptation threshold, the system either recovers, transforms, declines, collapses, dies, loses legitimacy, or is absorbed by another system.
 

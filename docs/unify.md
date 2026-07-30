@@ -69,7 +69,7 @@ The only worked instance in this repo lives in `specializations/iran-war/iran-wa
 
 - **J:** "Does the candidate contain a viable, implementable-within-6-months de-escalation off-ramp?" focused on φ/τ/Ω, rings 3→5.
 - **C:** the draft US–Iran memorandum of understanding.
-- **R:** **partially-satisfies** — *satisfies* on α (dual-victory framing) and Δψ (converts blockade pressure into a signature incentive); *partial* on π/β/τ; **fails on Ω** ("no named verification mechanism — the deal cannot observe its own compliance, stuck at ring 3"). Conclusion: viable as a 6-month off-ramp *conditional on two repairs* — name a verification mechanism (IAEA re-entry as first milestone) and decouple the Lebanon front.
+- **R:** **partially-satisfies** — *satisfies* on α (dual-victory framing) and ΔΨ (converts blockade pressure into a signature incentive); *partial* on π/β/τ; **fails on Ω** ("no named verification mechanism — the deal cannot observe its own compliance, stuck at ring 3"). Conclusion: viable as a 6-month off-ramp *conditional on two repairs* — name a verification mechanism (IAEA re-entry as first milestone) and decouple the Lebanon front.
 
 That is the operation's payoff: not just *whether* C works, but *which role it fails on and what to fix*.
 

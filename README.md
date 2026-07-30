@@ -2,7 +2,7 @@
 
 A home for the **SuperGoodReasonModel** — a universal α–Ω systemic configurator — together with the tooling and domain **specializations** built on it.
 
-The model expresses GoodReason as a machine- and human-readable systemic ontology: **8 sectors × 7 levels = 56 nodes**, each node cross-described through all 8 symbols, plus a 7-circle depth coordinate. It carries failure realism, a Viable-System-Model mapping (β), an ecological scale ladder (τ), reflexive researcher/object modes (α and Ω), an emancipatory lens (Δψ), and a χ methodological backbone. From this universal template, specialized models are generated for any System of Interest while the α–Ω form is preserved.
+The model expresses GoodReason as a machine- and human-readable systemic ontology: **8 sectors × 7 levels = 56 nodes**, each node cross-described through all 8 symbols, plus a 7-circle depth coordinate. It carries failure realism, a Viable-System-Model mapping (β), an ecological scale ladder (τ), reflexive researcher/object modes (α and Ω), an emancipatory lens (ΔΨ), and a χ methodological backbone. From this universal template, specialized models are generated for any System of Interest while the α–Ω form is preserved.
 
 ## Layout
 

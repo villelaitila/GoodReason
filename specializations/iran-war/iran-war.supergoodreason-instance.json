@@ -79,7 +79,7 @@
       "α": "Aims are stable: deterrence, containment, energy security as routine goals.",
       "π": "Known doctrines apply; the rules of the regional game are understood.",
       "χ": "The picture changes slowly; IAEA baselines and inspections hold.",
-      "Δψ": "Deviations are small and correctable through diplomacy.",
+      "ΔΨ": "Deviations are small and correctable through diplomacy.",
       "β": "Clear state hierarchies and chains of command.",
       "φ": "Proven instruments: sanctions, negotiation, inspection.",
       "τ": "Routine implementation: inspections, transits, talks.",
@@ -92,7 +92,7 @@
       "α": "Purpose is to reduce uncertainty through understanding the adversary.",
       "π": "Reasoning and intelligence analysis support decisions.",
       "χ": "The environment varies (enrichment creeps up) but can be modelled.",
-      "Δψ": "Pressure requires active monitoring of thresholds.",
+      "ΔΨ": "Pressure requires active monitoring of thresholds.",
       "β": "Structures flex: negotiating tracks open and close.",
       "φ": "Solutions are adaptive: phased pressure, conditional offers.",
       "τ": "Action is reactive but controlled.",
@@ -105,7 +105,7 @@
       "α": "Purpose is to find direction as aims collide non-linearly.",
       "π": "The decapitation paradigm becomes visible — and questionable.",
       "χ": "The environment is dynamic and interactive; facts contested.",
-      "Δψ": "Tension arises from unpredictability and proxy activation.",
+      "ΔΨ": "Tension arises from unpredictability and proxy activation.",
       "β": "Structure is networked: coalitions, proxies, mediators.",
       "φ": "Solutions emerge through experimentation, not blueprint.",
       "τ": "Implementation is adaptive and improvised.",
@@ -118,7 +118,7 @@
       "α": "Purpose is to act consistently on chosen principles after decapitation failed.",
       "π": "The theory of victory is evaluated critically and openly.",
       "χ": "The war is seen as a whole, not a sequence of incidents.",
-      "Δψ": "The challenge is bearing responsibility at the adaptation threshold.",
+      "ΔΨ": "The challenge is bearing responsibility at the adaptation threshold.",
       "β": "Structure supports autonomy — and exposes the IRGC's autonomous action.",
       "φ": "Solutions are principle-guided: the dual-victory deal architecture.",
       "τ": "Implementation is conscious and accountable.",
@@ -131,7 +131,7 @@
       "α": "Purpose is to use emerging potential: a negotiated post-war order.",
       "π": "A new synthesis (attrition + mediation) produces added value.",
       "χ": "The environment enables new alignments (Pakistan, Gulf, G7).",
-      "Δψ": "Success is not guaranteed; transformation may develop or devolve.",
+      "ΔΨ": "Success is not guaranteed; transformation may develop or devolve.",
       "β": "Structure supports innovation: new mediation and guarantee layers.",
       "φ": "Solutions are creative and integrative across tracks.",
       "τ": "Implementation is experimental: first convoys, first inspections.",
@@ -144,7 +144,7 @@
       "α": "Purpose is to preserve viability through the signature window.",
       "π": "The turning point reveals the limits of the old model (force-first).",
       "χ": "The environment sets strict conditions: blockade, broken verification.",
-      "Δψ": "Disruptive pressure demands rapid adaptation — recover or collapse.",
+      "ΔΨ": "Disruptive pressure demands rapid adaptation — recover or collapse.",
       "β": "Structure is reorganized: succession, IRGC ascendancy.",
       "φ": "Solutions change basic structures: the deal as reordering instrument.",
       "τ": "Implementation becomes crisis-management under fire.",
@@ -157,7 +157,7 @@
       "α": "Purpose is judged by what is sustainable and meaningful: survival vs supremacy.",
       "π": "Philosophy of science and ethics become central: force vs knowledge.",
       "χ": "The war is seen as part of a broader civilizational and historical whole.",
-      "Δψ": "The challenge is acceptability, responsibility, and acknowledging failure.",
+      "ΔΨ": "The challenge is acceptability, responsibility, and acknowledging failure.",
       "β": "Structure reflects values: the ethical regulator over the war machine.",
       "φ": "Solutions are normative: durable, fair public verification infrastructure.",
       "τ": "Action expresses a worldview: peace as continuously implemented practice.",
@@ -195,11 +195,11 @@
     {
       "id": "deltapsi.1",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 1,
       "circle": "Stability",
       "level_title": "Early signal",
-      "statement": "Δψ1 (Sensitivity). The first detectable disturbance: the February diplomatic collapse as a weak signal. Ignored signals let small errors accumulate toward instability."
+      "statement": "ΔΨ1 (Sensitivity). The first detectable disturbance: the February diplomatic collapse as a weak signal. Ignored signals let small errors accumulate toward instability."
     },
     {
       "id": "beta.1",
@@ -267,11 +267,11 @@
     {
       "id": "deltapsi.2",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 2,
       "circle": "Manageable Uncertainty",
       "level_title": "Buffering",
-      "statement": "Δψ2 (Dynamics: buffering). Variation consuming reserves: 99 days of Hormuz closure draining capital, trust and ecological capacity. Emancipatory question — whose reserves are spent, who pays the cost."
+      "statement": "ΔΨ2 (Dynamics: buffering). Variation consuming reserves: 99 days of Hormuz closure draining capital, trust and ecological capacity. Emancipatory question — whose reserves are spent, who pays the cost."
     },
     {
       "id": "beta.2",
@@ -339,11 +339,11 @@
     {
       "id": "deltapsi.3",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 3,
       "circle": "Complexity",
       "level_title": "Criticality",
-      "statement": "Δψ3 (Criticality: anomaly & paradigm pressure). The succession that did not collapse the regime is an anomaly the decapitation paradigm cannot absorb; denied, it becomes defensive repetition."
+      "statement": "ΔΨ3 (Criticality: anomaly & paradigm pressure). The succession that did not collapse the regime is an anomaly the decapitation paradigm cannot absorb; denied, it becomes defensive repetition."
     },
     {
       "id": "beta.3",
@@ -411,11 +411,11 @@
     {
       "id": "deltapsi.4",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 4,
       "circle": "Independent Agency",
       "level_title": "Adapt or collapse",
-      "statement": "Δψ4 (Adaptation threshold — failure realism). The signature window: the system recovers, transforms, or the deal collapses into renewed war. Failure is a real outcome here — decline, loss of legitimacy, absorption — not an exception."
+      "statement": "ΔΨ4 (Adaptation threshold — failure realism). The signature window: the system recovers, transforms, or the deal collapses into renewed war. Failure is a real outcome here — decline, loss of legitimacy, absorption — not an exception."
     },
     {
       "id": "beta.4",
@@ -483,11 +483,11 @@
     {
       "id": "deltapsi.5",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 5,
       "circle": "Emergence",
       "level_title": "Develop or devolve",
-      "statement": "Δψ5 (Transformation). Succession as transformation with two directions: enough coherence and Iran develops a new order; too little and it fragments into devolution and exhaustion."
+      "statement": "ΔΨ5 (Transformation). Succession as transformation with two directions: enough coherence and Iran develops a new order; too little and it fragments into devolution and exhaustion."
     },
     {
       "id": "beta.5",
@@ -555,11 +555,11 @@
     {
       "id": "deltapsi.6",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 6,
       "circle": "Disruption",
       "level_title": "Radical renewal",
-      "statement": "Δψ6 (Radical renewal: disruption & reordering). The war as a break in the regional order; the force-first precedent it sets can liberate, exploit, or destroy shared capacity — assess critically."
+      "statement": "ΔΨ6 (Radical renewal: disruption & reordering). The war as a break in the regional order; the force-first precedent it sets can liberate, exploit, or destroy shared capacity — assess critically."
     },
     {
       "id": "beta.6",
@@ -627,11 +627,11 @@
     {
       "id": "deltapsi.7",
       "symbol": "deltapsi",
-      "greek": "Δψ",
+      "greek": "ΔΨ",
       "ring": 7,
       "circle": "Reflection & Worldview",
       "level_title": "Evolution & limits",
-      "statement": "Δψ7 (Worldview balance). A truthful worldview includes failure, civilian suffering, exclusion and decline as realities to be understood — holding change and continuity in tension while accepting finitude."
+      "statement": "ΔΨ7 (Worldview balance). A truthful worldview includes failure, civilian suffering, exclusion and decline as realities to be understood — holding change and continuity in tension while accepting finitude."
     },
     {
       "id": "beta.7",
